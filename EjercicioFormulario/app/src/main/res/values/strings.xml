@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvMovil">Movil</string>
+    <string name="tvObservations">Observaciones</string>
+    <string name="tv3_nameEntered">Nombre introducido</string>
+    <string name="tv4_EmailEntered">Email introducido</string>
+    <string name="tv4_MovilEntered">Movil introducido</string>
+    <string name="tv4_ObservationsEntered">Observaciones introducido</string>
+    <string name="btnSucces">Mostrar</string>
+
+</resources>
